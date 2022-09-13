@@ -1,4 +1,4 @@
-# COVID-19-Vaccine-Text-Classification-
+# COVID-19-Vaccine-Classification-based-on-symptoms-text
 ## Objective
 Classify the type of Covid 19 vaccine from the symptoms caused by the vaccine reported in the VAERS reports.
 ## Material and methods
